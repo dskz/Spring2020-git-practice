@@ -3,4 +3,16 @@ Mazda
 Honda
 BMW
 Mercedes
+<<<<<<< Updated upstream
 Jeep
+=======
+Audi
+KIA
+Tesla
+Jaguar
+Bentley
+Hyundai
+Nissan
+Lexus
+Ferrari
+>>>>>>> Stashed changes
